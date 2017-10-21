@@ -286,3 +286,6 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+NotificationHub.UITests/NotificationHub.UITests.csproj
+NotificationHub.UITests/packages.config
+NotificationHub.UITests/Tests.cs
